@@ -1,0 +1,5 @@
+Análise
+Observando os dados, podemos notar que o site com o maior número de vendas (Shopee) também possui o maior valor de desconto médio. No entanto, os outros dois sites (Etsy e AliExpress) têm o mesmo número de vendas, mas valores de desconto médio diferentes.
+
+Conclusão
+Com base nesses dados, não é possível afirmar com certeza se há uma relação direta entre o número de vendas e o valor de desconto médio. Pode haver outros fatores influenciando o número de vendas, como a variedade de produtos oferecidos, a popularidade da plataforma, o tipo de público que frequenta cada site, entre outros.
